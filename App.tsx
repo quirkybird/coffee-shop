@@ -6,7 +6,9 @@ const App = () => {
   return (
     <NavigationContainer>
       <View>
-        <Text style={styles.text}>App</Text>
+        <Text style={styles.text}>
+          my first Coffee APP Road to develop is difficult
+        </Text>
       </View>
     </NavigationContainer>
   );
